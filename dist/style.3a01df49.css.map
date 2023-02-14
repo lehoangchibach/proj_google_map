@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["style.css"],"sourcesContent":["#map {\r\n    height: 400px; /* The height is 400 pixels */\r\n    width: 100%; /* The width is the width of the web page */\r\n  }"],"names":[],"version":3,"file":"style.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}
